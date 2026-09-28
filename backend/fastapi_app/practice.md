@@ -232,3 +232,4 @@ You truly understand the code when you can explain, to a classmate and in your o
 4. Why `main.py` returns the same error for "unknown email" and "wrong password".
 
 If you can answer all four, you are ready to build the Django version and compare the two.
+1
